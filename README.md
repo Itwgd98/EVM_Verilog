@@ -1,6 +1,6 @@
 # **Electronic Voting Machine (EVM) using Verilog**  
 
-![EVM Simulation](https://your-image-link-here) *(Replace with actual image if available)*  
+![EVM Simulation](./output4.png) *(Replace with actual image if available)*  
 
 ## 📌 **Project Overview**  
 This project implements an **Electronic Voting Machine (EVM) using Verilog**, designed to count votes for four candidates and determine the winner based on the highest vote count. The system is simulated in **Vivado**, with results verified using testbench waveforms.  
@@ -55,8 +55,7 @@ cd EVM-Project
 *(Add simulation screenshots here)*  
 
 ## 🔗 **GitHub Repository**  
-[👉 Electronic Voting Machine in Verilog](https://github.com/Aneket-Burman/EVM-Project) *(Replace with actual link once uploaded)*  
-
+[👉 Electronic Voting Machine in Verilog](https://github.com/Itwgd98/EVM_Verilog)
 ---
 
 This **README** provides a clear **project structure**, **simulation guide**, and **expected results**, ensuring **high ATS (Applicant Tracking System) compatibility** for resumes and professional portfolios. 🚀 Let me know if you need modifications! 😊
