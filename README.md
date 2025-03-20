@@ -22,11 +22,10 @@ This project implements an **Electronic Voting Machine (EVM) using Verilog**, de
 📂 EVM-Project/
  ├── 📄 EVM.v             # Main Verilog module (Electronic Voting Machine logic)
  ├── 📄 EVM_tb.v          # Testbench file for simulation
- ├── 📂 Outputs/          # Contains waveform images
- │   ├── 🖼️ output1.png   # Simulation output - Initial state
- │   ├── 🖼️ output2.png   # Simulation output - Voting process
- │   ├── 🖼️ output3.png   # Simulation output - Vote counts
- │   ├── 🖼️ output4.png   # Simulation output - Winner selection
+ ├── 🖼️ output1.png   # Simulation output - Initial state
+ ├── 🖼️ output2.png   # Simulation output - Voting process
+ ├── 🖼️ output3.png   # Simulation output - Vote counts
+ ├── 🖼️ output4.png   # Simulation output - Winner selection
  ├── 📝 README.md         # Project documentation (this file)
 ```
 
